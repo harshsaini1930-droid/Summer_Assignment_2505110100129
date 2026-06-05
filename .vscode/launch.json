@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "e:/College training assignment/Day 2",
       "program": "e:/College training assignment/Day 2/build/Debug/outDebug",
+=======
+      "cwd": "e:/Day 1",
+      "program": "e:/Day 1/build/Debug/outDebug",
+>>>>>>> 383eacdf3c8fc2c8b44d13961070e8d9b359070b
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
