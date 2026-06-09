@@ -8,8 +8,28 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "e:/College training assignment/Day 9",
       "program": "e:/College training assignment/Day 9/build/Debug/outDebug",
+=======
+<<<<<<< HEAD
+      "cwd": "e:/College training assignment/Day 8",
+      "program": "e:/College training assignment/Day 8/build/Debug/outDebug",
+=======
+<<<<<<< HEAD
+      "cwd": "e:/College training assignment/Day 3",
+      "program": "e:/College training assignment/Day 3/build/Debug/outDebug",
+=======
+<<<<<<< HEAD
+      "cwd": "e:/College training assignment/Day 2",
+      "program": "e:/College training assignment/Day 2/build/Debug/outDebug",
+=======
+      "cwd": "e:/Day 1",
+      "program": "e:/Day 1/build/Debug/outDebug",
+>>>>>>> 383eacdf3c8fc2c8b44d13961070e8d9b359070b
+>>>>>>> ed1291c33e8506adf57b96f64b60d80f38e69185
+>>>>>>> 33949b280d90c8f0b7f24a3d7e6f2e098b1e0309
+>>>>>>> bcfd241b43adc39e3d2f49c0f7b189e71004dd37
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
